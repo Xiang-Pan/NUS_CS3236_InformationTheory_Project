@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Encoding\040Schemes}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{\(7,4\)\040Hamming\040Code}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{\(9,5\)\040Suggested\040Code}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{R\(1,3\)\040Reed-Muller\040Code}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.3.1}{R\(r,m\)\040Reed-Muller\040Codes}{subsection.2.3}% 6
+\BOOKMARK [3][-]{subsubsection.2.3.2}{R\(1,3\)\040Reed-Muller\040Code}{subsection.2.3}% 7
+\BOOKMARK [1][-]{section.3}{Implementation\040and\040experiments}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Implementation}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Dataset}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Results}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{References}{}% 12
